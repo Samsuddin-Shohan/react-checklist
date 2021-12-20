@@ -1,0 +1,10 @@
+.meal-list {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.meals {
+  border-right: 2px solid lightgray;
+}
+.details {
+  margin-left: 10px;
+}
